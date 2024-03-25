@@ -2,7 +2,7 @@
 
 This project aims to create a simplified Decentralized Exchange using the automatic market maker algorithm of constant product to swap between two ERC20 tokens.
 
-### Theory  xy = k
+### Theory : xy = k
 #### Swap
 How much dy for dx?
 
