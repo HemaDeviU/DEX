@@ -1,6 +1,6 @@
-## Stablecoin Defi Protocol
+## Decentralized Exchange - Automatic Market Maker
 
-This project aims to create a simplified Decentralized Exchange to swap between two ERC20 tokens.
+This project aims to create a simplified Decentralized Exchange using the automatic market maker algorithm to swap between two ERC20 tokens.
 
 ### Requirements
 - #### Foundry
